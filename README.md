@@ -29,4 +29,4 @@ A custom-built Arduino-powered remote control car, operated via Bluetooth using 
 
 ---
 
-👾 Built at age 15 using pure vibes, wires and curiosity.
+👾 Built at age 15 powered by pure vibes, wires and curiosity.
