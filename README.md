@@ -1,6 +1,6 @@
 # Arduino Bluetooth RC Car 🚗📡
 
-A custom-built Arduino-powered remote control car, operated via Bluetooth using an HC-05 module and mobile app interface. Built at age 15 to explore embedded systems, robotics and wireless communication i was fascinated with motors back then 😂.
+A custom-built Arduino-powered remote control car, operated via Bluetooth using an HC-05 module and mobile app interface. Built at age 15/16 to explore embedded systems, robotics and wireless communication i was fascinated with motors back then 😂.
 
 ## 🛠️ Components Used
 - Arduino Uno
